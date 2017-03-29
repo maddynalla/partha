@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_LxqPkRS3Eeewmc1Hr2uWvA" label="ClusterSystems" description="" language="java" technicalLabel="CLUSTERSYSTEMS" creationDate="2017-03-29T12:37:13.000-0700" author="_LxqPkhS3Eeewmc1Hr2uWvA" productVersion="Talend Data Fabric-6.3.1.20161216_1026" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/maddynalla/partha.git&quot;,&quot;login&quot;:&quot;maddynalla&quot;,&quot;passwd&quot;:&quot;fyiUfcl5gH3LmDEb1e7oYQ==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="MDM"/>
+  <TalendProperties:User xmi:id="_LxqPkhS3Eeewmc1Hr2uWvA" login="admin@company.com" firstName="admin" lastName="admin" type="MDM" additionnalData="{}"/>
+</xmi:XMI>
